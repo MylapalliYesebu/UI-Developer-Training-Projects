@@ -4,10 +4,10 @@ function greetUser() {
 
     if (userName) {
         greetingMessage.textContent = `Hello, ${userName}! Welcome to Greeting App.`;
+        document.getElementById('userName').value = "";
     }   
 }
 
 function clearGreeting() {
-    document.getElementById('userName').value = "";
     document.getElementById('greeting').textContent = "";
 }
