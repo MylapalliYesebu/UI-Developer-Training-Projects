@@ -22,7 +22,7 @@ a CSR initiative by Infosys Foundation in collaboration with Ideal Institute of 
 |------------------|----------------------------------|--------------|------------------------------------------------------------------------------|---------------------------------------------|
 | Greeting App     | Greets user by name              | ✅ Done       | [Repo](https://github.com/MylapalliYesebu/greeting-app)                     | [Live](https://greeting-app-five.vercel.app/)     |
 | Tip Calculator   | Calculates tip from bill amount  | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/tip-calculator)                   | [Live](https://mylapalliyesebu.github.io/Tip-Calculator/)   |
-| Student List     | Manage basic student list        | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/student-list)                     | [Live](https://student-list.vercel.app)     |
+| Student List     | Manage basic student list        | ✅ Done       | [Repo](https://mylapalliyesebu.github.io/student-list/)                     | [Live](https://student-list.vercel.app)     |
 | Student Manager  | Add, edit, delete student info   | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/student-manager)                  | [Live](https://student-manager.vercel.app)  |
 | Traffic Lights  |   | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/Traffic-Lights)                  | [Live](https://Traffic-Light.vercel.app)  |
 
