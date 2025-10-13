@@ -52,7 +52,7 @@ This project helped me practice and understand:
 
 ## 🧪 Live Demo
 
-👉 [View the live demo]()  
+👉 [View the live demo](https://mylapalliyesebu.github.io/student-list/)  
 
 ---
 
