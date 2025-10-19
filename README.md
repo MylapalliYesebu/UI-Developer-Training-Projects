@@ -1,65 +1,67 @@
 # UI Developer Training Projects
 
-👨‍💻 A collection of mini-projects built as part of the  
-**"Finishing School – Phase 2: UI Developer Training Program"**,  
+👨‍💻 A collection of mini-projects built as part of the
+**"Finishing School – Phase 2: UI Developer Training Program"**,
 a CSR initiative by Infosys Foundation in collaboration with Ideal Institute of Technology.
 
 ---
 
 ## 📚 Program Details
 
-- 🏫 **Institution:** Ideal Institute of Technology, Kakinada  
-- 🧑‍🏫 **Trainer:** Mr. Rakesh Sharma  
-- 🗓️ **Duration:** 15 July 2025 – 28 July 2025  
-- 🧠 **Topics Covered:** HTML, CSS, JavaScript, UI/UX Design, React, Angular  
-- 🎯 **Focus:** Hands-on learning with mini-projects and real-world concepts
+* 🏫 **Institution:** Ideal Institute of Technology, Kakinada
+* 👨‍🏫 **Trainer:** Mr. Rakesh Sharma
+* 🕳️ **Duration:** 15 July 2025 – 28 July 2025
+* 🧠 **Topics Covered:** HTML, CSS, JavaScript, UI/UX Design, React, Angular
+* 🎯 **Focus:** Hands-on learning with mini-projects and real-world concepts
 
 ---
 
 ## 🧩 Mini Projects
 
-| Project Name     | Description                      | Status       | GitHub Repo                                                                 | Live Demo                                   |
-|------------------|----------------------------------|--------------|------------------------------------------------------------------------------|---------------------------------------------|
-| Greeting App     | Greets user by name              | ✅ Done       | [Repo](https://github.com/MylapalliYesebu/greeting-app)                     | [Live](https://greeting-app-five.vercel.app/)     |
-| Tip Calculator   | Calculates tip from bill amount  | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/tip-calculator)                   | [Live](https://mylapalliyesebu.github.io/Tip-Calculator/)   |
-| Student List     | Manage basic student list        | ✅ Done       | [Repo](https://mylapalliyesebu.github.io/student-list/)                     | [Live](https://student-list.vercel.app)     |
-| Student Manager  | Add, edit, delete student info   | ✅ Done | [Repo](https://github.com/MylapalliYesebu/student-manager)                  | [Live](https://mylapalliyesebu.github.io/student-manager/)  |
-| Traffic Lights  |   | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/Traffic-Lights)                  | [Live](https://Traffic-Light.vercel.app)  |
+| Project Name             | Description                              | Status        | GitHub Repo                                                    | Live Demo                                                  |
+| ------------------------ | ---------------------------------------- | ------------- | -------------------------------------------------------------- | ---------------------------------------------------------- |
+| Greeting App             | Greets user by name                      | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/greeting-app)        | [Live](https://greeting-app-five.vercel.app/)              |
+| Tip Calculator           | Calculates tip from bill amount          | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/tip-calculator)      | [Live](https://mylapalliyesebu.github.io/Tip-Calculator/)  |
+| Student List             | Displays and sorts list of students      | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/student-list)        | [Live](https://student-list.vercel.app)                    |
+| Student Manager          | Adds and manages student details         | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/student-manager)     | [Live](https://mylapalliyesebu.github.io/student-manager/) |
+| Traffic Light Simulation | Simulates traffic light behavior         | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/Traffic-Lights)      | [Live](https://traffic-light.vercel.app)                   |
+| Counter App (React)      | Simple counter using React state         | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/counter-app-react)   | [Live](#)                                                  |
+| To-Do App (React)        | Manage and delete daily tasks            | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/todo-app-react)      | [Live](#)                                                  |
+| Counter App (Angular)    | Counter functionality built with Angular | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/counter-app-angular) | [Live](#)                                                  |
+| Post & Likes App         | Like counter for posts                   | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/post-likes-app)      | [Live](#)                                                  |
 
-> ✅ This table will be updated as more projects are completed...
+> ✅ This table will be updated as more projects are completed and deployed.
 
 ---
 
 ## 🚀 How to View Projects
 
-You can click on the **Live Demo links** in the table above,  
-or visit the deployed projects on [Vercel](https://vercel.com/dashboard).
+You can click the **Live Demo** links in the table above or explore all repositories on my [GitHub profile](https://github.com/MylapalliYesebu).
 
-Each mini-project is inside its own folder and also available as a separate GitHub repo.
+Each mini-project is stored in its own folder and available as a separate repository for detailed exploration.
 
 ---
 
 ## 📌 What I Learned
 
-This training program helped me build strong frontend development skills including:
+This training program helped me gain confidence and strong frontend development skills through:
 
-- HTML & CSS layout and styling
-- JavaScript basics and DOM handling
-- Responsive UI and real-time interactivity
-- UI/UX principles, research, wireframing, and prototyping
-- React project setup, debugging, and structure
-- Git, GitHub, and deployment using Vercel
+* Structuring pages with **HTML & CSS**
+* Handling interactivity using **JavaScript & DOM manipulation**
+* Designing responsive and engaging interfaces
+* Understanding **UI/UX principles** and **user-focused design**
+* Developing real-world projects using **React** and **Angular**
+* Managing repositories and **deployments with GitHub & Vercel**
 
 ---
 
 ## 👤 Author
 
-- **Mylapalli Yesebu**  
-
-- [GitHub](https://github.com/MylapalliYesebu)
-- [LinkedIn](https://www.linkedin.com/in/mylapalliyesebu/)
+* **Mylapalli Yesebu**
+* [GitHub](https://github.com/MylapalliYesebu)
+* [LinkedIn](https://www.linkedin.com/in/mylapalliyesebu/)
 
 ---
 
-🔗 This repository is part of my learning journey toward becoming a skilled frontend developer.  
-Feel free to explore, learn, and give feedback!
+🔗 This repository is part of my learning journey toward becoming a skilled frontend developer.
+Feel free to explore, learn, and share your feedback!
