@@ -69,4 +69,4 @@ This project is part of my full **UI Developer Training Project Series**:
 
 * **Mylapalli Yesebu**
 * [GitHub](https://github.com/MylapalliYesebu)
-* 📧 [yesebymylapalli08@gmail.com](mailto:yesebymylapalli08@gmail.com)
+* [Gmail](mailto:yesebumylapalli08@gmail.com)
