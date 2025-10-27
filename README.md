@@ -26,7 +26,7 @@ a CSR initiative by Infosys Foundation in collaboration with Ideal Institute of 
 | Student Manager          | Adds and manages student details         | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/student-manager)     | [Live](https://mylapalliyesebu.github.io/student-manager/) |
 | Traffic Light Simulation | Simulates traffic light behavior         | ✅ Done        | [Repo](https://github.com/MylapalliYesebu/Traffic-Lights)      | [Live](https://mylapalliyesebu.github.io/traffic-light/)                   |
 | Counter App (React)      | Simple counter using React state         | ✅ Done | [Repo](https://github.com/MylapalliYesebu/counter-app-react)   | [Live](https://mylapalliyesebu.github.io/counter-app-react/)                                                  |
-| To-Do App (React)        | Manage and delete daily tasks            | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/todo-app-react)      | [Live](#)                                                  |
+| To-Do App (React)        | Manage and delete daily tasks            | ✅ Done | [Repo](https://github.com/MylapalliYesebu/todo-app-react)      | [Live](https://mylapalliyesebu.github.io/todo-app-react/)                                                  |
 | Counter App (Angular)    | Counter functionality built with Angular | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/counter-app-angular) | [Live](#)                                                  |
 | Post & Likes App         | Like counter for posts                   | ⏳ In Progress | [Repo](https://github.com/MylapalliYesebu/post-likes-app)      | [Live](#)                                                  |
 
